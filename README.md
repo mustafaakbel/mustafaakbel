@@ -3,6 +3,12 @@
 <img src="https://github.com/mustafaakbel/mustafaakbel/blob/master/images/banner.png" alt="Hello world">
 
 ![](https://komarev.com/ghpvc/?username=mustafaakbel&color=green&style=flat-square)
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="mustafaakbel's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mustafaakbel&show_icons=true&hide_border=true&count_private=true" />
+
 <!--
 **mustafaakbel/mustafaakbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
